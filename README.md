@@ -4,11 +4,14 @@ Tutorials links
 ## Python
 
 ### Regular Expressions
-1. Using re module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
+1. Using `re` module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
 
 ### Magic Methods (Dunder Methods)
 1.  Covers highly used magic methods - https://realpython.com/operator-function-overloading/
 2. `__repr__` vs. `__str__` and `!r` flag - https://dbader.org/blog/python-repr-vs-str
+
+### Logging
+1. Using `logging` module - https://realpython.com/python-logging/
 
 ## Devops
 
