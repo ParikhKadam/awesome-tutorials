@@ -3,6 +3,8 @@ Tutorials links
 
 ## Python
 
+https://github.com/ParikhKadam/python-is-cool
+
 ### Regular Expressions
 1. Using `re` module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
 
