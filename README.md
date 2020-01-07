@@ -15,6 +15,9 @@ https://github.com/ParikhKadam/python-is-cool
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
 
+### Imports
+1. `__import__` vs. `import as` and importlib - https://stackoverflow.com/questions/21213355/python-difference-between-import-and-import-as
+
 ## Devops
 
 ### Deployment Strategies
