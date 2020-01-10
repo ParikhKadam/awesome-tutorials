@@ -21,6 +21,10 @@ https://github.com/ParikhKadam/python-is-cool
 ### Configuration Files
 1. Some common configuration files - https://martin-thoma.com/configuration-files-in-python/
 
+### `super()`
+1. `super()` with wrong arguments - https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class
+2. Understanding of `super()` in deep along with arguments and python2 vs python3 - https://stackoverflow.com/questions/17509846/python-super-arguments-why-not-superobj
+
 ## Devops
 
 ### Deployment Strategies
