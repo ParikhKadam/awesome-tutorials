@@ -28,6 +28,9 @@ https://github.com/ParikhKadam/python-is-cool
 ### `type()`
 1. Dynamically creating classes - https://stackoverflow.com/questions/15247075/how-can-i-dynamically-create-derived-classes-from-a-base-class
 
+### `__dict__`, `dir()` and `vars()`
+1. `dir()` and  `__dict__` vs `vars()` - https://stackoverflow.com/questions/980249/difference-between-dir-and-vars-keys-in-python
+
 ## Devops
 
 ### Deployment Strategies
