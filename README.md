@@ -45,4 +45,6 @@ In the modern era, software is commonly delivered as a service: called web apps,
 https://12factor.net
 
 ### Software Design Patterns
+
+#### Dependency Injection - Dependency injection is a programming technique that makes a class independent of its dependencies.
 1. Dependency Injection with a simple example - https://stackoverflow.com/questions/130794/what-is-dependency-injection
