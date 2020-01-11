@@ -30,6 +30,8 @@ https://github.com/ParikhKadam/python-is-cool
 ### Deployment Strategies
 1.  Big-Bang Deployment, Rolling Deployment, Blue-Green (Red-Black or A/B) Deployment - https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3
 
+### Environments
+1. Development, Staging and Production - https://dev.to/flippedcoding/difference-between-development-stage-and-production-d0p
 
 ## Software Development
 
