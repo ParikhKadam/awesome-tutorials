@@ -31,6 +31,10 @@ https://github.com/ParikhKadam/python-is-cool
 ### `__dict__`, `dir()` and `vars()`
 1. `dir()` and  `__dict__` vs `vars()` - https://stackoverflow.com/questions/980249/difference-between-dir-and-vars-keys-in-python
 
+### Iterables and Iterators
+1. Complete guide - https://dbader.org/blog/python-iterators
+2. `__iter__` vs `__next__` (look at the answer given by the author itself) - https://stackoverflow.com/questions/52056146/separating-the-iter-and-next-methods/52056290
+
 ## Devops
 
 ### Deployment Strategies
