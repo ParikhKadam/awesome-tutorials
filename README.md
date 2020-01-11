@@ -43,3 +43,6 @@ In the modern era, software is commonly delivered as a service: called web apps,
 - And can scale up without significant changes to tooling, architecture, or development practices.
 
 https://12factor.net
+
+### Software Design Patterns
+1. Dependency Injection with a simple example - https://stackoverflow.com/questions/130794/what-is-dependency-injection
