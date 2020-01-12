@@ -11,6 +11,7 @@ https://github.com/ParikhKadam/python-is-cool
 ### Magic Methods (Dunder Methods)
 1.  Covers highly used magic methods - https://realpython.com/operator-function-overloading/
 2. `__repr__` vs. `__str__` and `!r` flag - https://dbader.org/blog/python-repr-vs-str
+3. Everything here - https://www.pythonprogramming.in/object-oriented-programming.html
 
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
