@@ -18,7 +18,7 @@ https://github.com/ParikhKadam/python-is-cool
 ### Imports
 1. `__import__` vs. `import as` and importlib - https://stackoverflow.com/questions/21213355/python-difference-between-import-and-import-as
 
-### Configuration Files
+### App Configuration Files
 1. Some common configuration files - https://martin-thoma.com/configuration-files-in-python/
 
 ### `super()`
