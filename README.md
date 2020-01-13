@@ -5,13 +5,15 @@ Tutorials links
 
 https://github.com/ParikhKadam/python-is-cool
 
+### Object Oriented Programming
+1. Everything here - https://www.pythonprogramming.in/object-oriented-programming.html
+
 ### Regular Expressions
 1. Using `re` module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
 
 ### Magic Methods (Dunder Methods)
 1.  Covers highly used magic methods - https://realpython.com/operator-function-overloading/
 2. `__repr__` vs. `__str__` and `!r` flag - https://dbader.org/blog/python-repr-vs-str
-3. Everything here - https://www.pythonprogramming.in/object-oriented-programming.html
 
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
