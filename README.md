@@ -4,6 +4,7 @@ Tutorials links
 ## Python
 
 https://github.com/ParikhKadam/python-is-cool
+
 https://www.pythonprogramming.in/object-oriented-programming.html
 
 ### Regular Expressions
