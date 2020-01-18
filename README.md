@@ -17,6 +17,11 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
 
+### Threading
+1. Everything - https://docs.python.org/3/library/threading.html
+2. Thread Synchronization - http://effbot.org/zone/thread-synchronization.htm
+3. Reader-Writer Lock - https://www.oreilly.com/library/view/python-cookbook/0596001673/ch06s04.html
+
 ### Imports
 1. `__import__` vs. `import as` and importlib - https://stackoverflow.com/questions/21213355/python-difference-between-import-and-import-as
 
