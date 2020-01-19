@@ -45,6 +45,9 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 3. The use of `__reversed__` - https://stackoverflow.com/questions/27638960/python-reverse-magic-method/27638994#27638994
 4. Iterators vs Generators - https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators
 
+## Markdown
+1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+
 ## Devops
 
 ### Deployment Strategies
