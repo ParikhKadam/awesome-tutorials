@@ -47,6 +47,7 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 
 ## Markdown
 1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+2. Everything about the basics of markdown - https://www.markdownguide.org/basic-syntax/
 
 ## Devops
 
