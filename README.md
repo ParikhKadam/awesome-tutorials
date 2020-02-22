@@ -45,7 +45,10 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 3. The use of `__reversed__` - https://stackoverflow.com/questions/27638960/python-reverse-magic-method/27638994#27638994
 4. Iterators vs Generators - https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators
 
-### Module Distribution
+### `string` library
+1. `maketrans()` and `translate()` functions - https://www.tutorialspoint.com/python-maketrans-and-translate-functions
+
+### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
 
 ## Markdown
