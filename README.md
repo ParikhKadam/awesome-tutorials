@@ -51,6 +51,12 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
 
+### Encrypting python module
+1. The workflow - https://stackoverflow.com/questions/21864682/encrypt-unencrypt-python-scripts-in-c
+2. sourcedefender package - https://pypi.org/project/sourcedefender/
+3. pyce library - https://github.com/ParikhKadam/awesome-github-repos/blob/master/README.md#pyce
+4. pyconcrete library - https://github.com/ParikhKadam/awesome-github-repos/blob/master/README.md#pyconcrete
+
 ## Markdown
 1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 2. Everything about the basics of markdown - https://www.markdownguide.org/basic-syntax/
