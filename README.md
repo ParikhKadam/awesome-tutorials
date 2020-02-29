@@ -7,6 +7,8 @@ https://github.com/ParikhKadam/python-is-cool
 
 https://www.pythonprogramming.in/object-oriented-programming.html
 
+https://www.ics.uci.edu/~brgallar/index.html
+
 ### Regular Expressions
 1. Using `re` module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
 
@@ -51,11 +53,18 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
 
+### Cython - Python code that can be compiled like C to be used in other C and Python modules
+1. Basics - https://pythonprogramming.net/introduction-and-basics-cython-tutorial/
+
 ### Encrypting python module
 1. The workflow - https://stackoverflow.com/questions/21864682/encrypt-unencrypt-python-scripts-in-c
 2. sourcedefender package - https://pypi.org/project/sourcedefender/
 3. pyce library - https://github.com/ParikhKadam/awesome-github-repos/blob/master/README.md#pyce
 4. pyconcrete library - https://github.com/ParikhKadam/awesome-github-repos/blob/master/README.md#pyconcrete
+
+### CPython - The Python Interpreter
+1. Python vs. CPython - https://stackoverflow.com/questions/17130975/python-vs-cpython
+2. .pyc, .pyo and .pyd files - https://stackabuse.com/differences-between-pyc-pyd-and-pyo-python-files/
 
 ## Markdown
 1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
@@ -101,3 +110,7 @@ https://12factor.net
 
 #### Dependency Injection - Dependency injection is a programming technique that makes a class independent of its dependencies.
 1. Dependency Injection with a simple example - https://stackoverflow.com/questions/130794/what-is-dependency-injection
+
+
+## Reverse Engineering
+1. Tools for .so (shared object) files - https://reverseengineering.stackexchange.com/questions/4624/how-do-i-reverse-engineer-so-files-found-in-android-apks?newreg=c5fdcf661f3d401d944b066853af1d10
