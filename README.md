@@ -96,6 +96,24 @@ https://www.ics.uci.edu/~brgallar/index.html
 2. Everything about the basics of markdown - https://www.markdownguide.org/basic-syntax/
 3. Image captions - https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll
 
+## Linux
+
+### User management
+1. Enable/Disable user (Expire account, lock login using passowrd, expire password) - https://askubuntu.com/questions/282806/how-to-enable-or-disable-a-user
+2. Switch betwwen users on terminal using `su` and `sudo` - https://unix.stackexchange.com/questions/3568/how-to-switch-between-users-on-one-terminal
+3. User creation using `useradd` - https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
+4. Renaming users - https://linuxtechlab.com/rename-user-in-linux-rename-home-directory/
+5. `/etc/shadow` - https://unix.stackexchange.com/questions/252016/difference-between-vs-vs-in-etc-shadow
+6. `/etc/passwd` vs. `/etc/shadow` - https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd
+
+### Cron jobs
+1. Create cron job using terminal - https://stackoverflow.com/questions/4880290/how-do-i-create-a-crontab-through-a-script
+2. Manually adding cron jobs - https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
+
+### `nohup` - Run process in background without binding it to a terminal
+1. Basics - https://www.journaldev.com/27875/nohup-command-in-linux
+2. Killing a `nohup` process - https://stackoverflow.com/questions/17385794/how-to-get-the-process-id-to-kill-a-nohup-process
+
 ## Devops
 
 ### Deployment Strategies
@@ -103,6 +121,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 
 ### Environments
 1. Development, Staging and Production - https://dev.to/flippedcoding/difference-between-development-stage-and-production-d0p
+
+## Vagrant
+1. Change the way vagrant ssh login works, use your own key for ssh - http://ermaker.github.io/blog/2015/11/18/change-insecure-key-to-my-own-key-on-vagrant.html
 
 ## Software Development
 
