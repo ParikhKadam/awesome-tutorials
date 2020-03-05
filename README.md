@@ -66,6 +66,31 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Python vs. CPython - https://stackoverflow.com/questions/17130975/python-vs-cpython
 2. .pyc, .pyo and .pyd files - https://stackabuse.com/differences-between-pyc-pyd-and-pyo-python-files/
 
+## Angular - The angular framework (not angularjs)
+
+### Event Binding
+1. Core concept - https://www.pluralsight.com/guides/angular-event-binding
+
+### @Input and @Output
+1. Core concept - https://blog.hackages.io/angular-component-interaction-with-input-output-and-eventemitter-72526422b95c
+2. Core concept - https://medium.com/@foolishneo/understanding-input-output-and-eventemitter-in-angular-c1aeb9fff594
+
+### Event Emmiters
+1. Everything you need to know - https://netbasal.com/event-emitters-in-angular-13e84ee8d28c
+
+### Event Bubbling
+1. Everything you need to know - https://www.radzen.com/blog/angular-event-bubbling/
+
+### ng-template Directive
+1. Everything you need to know - https://www.angularjswiki.com/angular/what-is-ng-template-in-angular/#using-ng-template-with-ngfor-example
+
+### Component Lifecycle
+1. https://angular.io/guide/lifecycle-hooks
+
+### ngClass and ngStyle
+1. https://blog.angular-university.io/angular-ngclass-ngstyle/
+
+
 ## Markdown
 1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 2. Everything about the basics of markdown - https://www.markdownguide.org/basic-syntax/
