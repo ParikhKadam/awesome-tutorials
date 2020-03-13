@@ -66,6 +66,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Python vs. CPython - https://stackoverflow.com/questions/17130975/python-vs-cpython
 2. .pyc, .pyo and .pyd files - https://stackabuse.com/differences-between-pyc-pyd-and-pyo-python-files/
 
+### Mixin
+1. What is it and why is it used? - https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
+
 ## Angular - The angular framework (not angularjs)
 
 ### Event Binding
