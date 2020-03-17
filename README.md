@@ -77,6 +77,7 @@ https://www.ics.uci.edu/~brgallar/index.html
 
 ### Filter
 1. Filter dataframe based on row index - https://stackoverflow.com/questions/53482760/filter-data-frame-based-on-index-value-in-python/53482813
+2. `loc()` vs `iloc()` - https://www.pythonprogramming.in/what-is-difference-between-iloc-and-loc-in-pandas.html
 
 ## Angular - The angular framework (not angularjs)
 
