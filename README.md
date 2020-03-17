@@ -69,6 +69,10 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Mixin
 1. What is it and why is it used? - https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
 
+### Plug and Play - Modular Systems
+1. Implementing a plugin basics - https://alysivji.github.io/simple-plugin-system.html
+2. More on loading and running plugins - https://lkubuntu.wordpress.com/2012/10/02/writing-a-python-plugin-api/
+
 ## Angular - The angular framework (not angularjs)
 
 ### Event Binding
