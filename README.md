@@ -73,6 +73,11 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Implementing a plugin basics - https://alysivji.github.io/simple-plugin-system.html
 2. More on loading and running plugins - https://lkubuntu.wordpress.com/2012/10/02/writing-a-python-plugin-api/
 
+## Pandas
+
+### Filter
+1. Filter dataframe based on row index - https://stackoverflow.com/questions/53482760/filter-data-frame-based-on-index-value-in-python/53482813
+
 ## Angular - The angular framework (not angularjs)
 
 ### Event Binding
