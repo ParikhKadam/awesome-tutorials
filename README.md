@@ -78,6 +78,7 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Filter
 1. Filter dataframe based on row index - https://stackoverflow.com/questions/53482760/filter-data-frame-based-on-index-value-in-python/53482813
 2. `loc()` vs `iloc()` - https://www.pythonprogramming.in/what-is-difference-between-iloc-and-loc-in-pandas.html
+3. Select rows/columns based on regex - https://stackoverflow.com/questions/30808430/how-to-select-columns-from-dataframe-by-regex
 
 ### Row operations
 1. Adding a new row using loc - https://stackoverflow.com/questions/10715965/add-one-row-to-pandas-dataframe
