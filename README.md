@@ -82,6 +82,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Row operations
 1. Adding a new row using loc - https://stackoverflow.com/questions/10715965/add-one-row-to-pandas-dataframe
 
+### Data Deletion
+1. Delete rows and columns - https://chrisalbon.com/python/data_wrangling/pandas_dropping_column_and_rows/
+
 ## Angular - The angular framework (not angularjs)
 
 ### Event Binding
