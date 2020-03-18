@@ -79,6 +79,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Filter dataframe based on row index - https://stackoverflow.com/questions/53482760/filter-data-frame-based-on-index-value-in-python/53482813
 2. `loc()` vs `iloc()` - https://www.pythonprogramming.in/what-is-difference-between-iloc-and-loc-in-pandas.html
 
+### Row operations
+1. Adding a new row using loc - https://stackoverflow.com/questions/10715965/add-one-row-to-pandas-dataframe
+
 ## Angular - The angular framework (not angularjs)
 
 ### Event Binding
