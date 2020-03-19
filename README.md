@@ -73,6 +73,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Implementing a plugin basics - https://alysivji.github.io/simple-plugin-system.html
 2. More on loading and running plugins - https://lkubuntu.wordpress.com/2012/10/02/writing-a-python-plugin-api/
 
+### Tricks
+1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
+
 ## Pandas
 
 ### Filter
