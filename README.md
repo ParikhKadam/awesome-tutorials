@@ -76,6 +76,11 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Tricks
 1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
 
+## OpenCV
+
+### Affine Transforms
+1. Rotate an image - https://stackoverflow.com/questions/9041681/opencv-python-rotate-image-by-x-degrees-around-specific-point
+
 ## Pandas
 
 ### Filter
