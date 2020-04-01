@@ -76,6 +76,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Tricks
 1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
 
+### Profiling
+1. Tools and visualization - https://medium.com/@narenandu/profiling-and-visualization-tools-in-python-89a46f578989
+
 ## C++
 ### References and Pointers
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
