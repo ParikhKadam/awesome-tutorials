@@ -201,6 +201,9 @@ https://12factor.net
 1. Dependency Injection with a simple example - https://stackoverflow.com/questions/130794/what-is-dependency-injection
 
 
+### Composition and Inheritance
+1. Composition vs. Inheritance - https://www.thoughtworks.com/de/insights/blog/composition-vs-inheritance-how-choose
+
 ## Reverse Engineering
 1. Tools for .so (shared object) files - https://reverseengineering.stackexchange.com/questions/4624/how-do-i-reverse-engineer-so-files-found-in-android-apks?newreg=c5fdcf661f3d401d944b066853af1d10
 
