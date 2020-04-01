@@ -76,6 +76,15 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Tricks
 1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
 
+## C++
+### References and Pointers
+1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
+2. References vs. Pointers deeper understanding - https://www.embedded.com/references-vs-pointers/
+
+### Smart Pointers
+1. Performance overhead - https://stackoverflow.com/questions/22295665/how-much-is-the-overhead-of-smart-pointers-compared-to-normal-pointers-in-c
+2. Memory and Performance overhead - https://www.modernescpp.com/index.php/memory-and-performance-overhead-of-smart-pointer
+
 ## OpenCV
 
 ### Affine Transforms
