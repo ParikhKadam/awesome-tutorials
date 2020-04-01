@@ -102,12 +102,12 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Filter dataframe based on row index - https://stackoverflow.com/questions/53482760/filter-data-frame-based-on-index-value-in-python/53482813
 2. `loc()` vs `iloc()` - https://www.pythonprogramming.in/what-is-difference-between-iloc-and-loc-in-pandas.html
 3. Select rows/columns based on regex - https://stackoverflow.com/questions/30808430/how-to-select-columns-from-dataframe-by-regex
+4. Select rows based on a column whose value lies between two values - https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas/40442778
 
-### Row operations
-1. Adding a new row using loc - https://stackoverflow.com/questions/10715965/add-one-row-to-pandas-dataframe
-
-### Data Deletion
-1. Delete rows and columns - https://chrisalbon.com/python/data_wrangling/pandas_dropping_column_and_rows/
+### Operations
+1. `and` vs. `&` - https://stackoverflow.com/questions/54315627/difference-between-and-and-in-pandas
+2. Delete rows and columns - https://chrisalbon.com/python/data_wrangling/pandas_dropping_column_and_rows/
+3. Adding a new row using loc - https://stackoverflow.com/questions/10715965/add-one-row-to-pandas-dataframe
 
 ## Angular - The angular framework (not angularjs)
 
