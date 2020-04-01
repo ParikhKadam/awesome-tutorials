@@ -88,6 +88,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 1. Performance overhead - https://stackoverflow.com/questions/22295665/how-much-is-the-overhead-of-smart-pointers-compared-to-normal-pointers-in-c
 2. Memory and Performance overhead - https://www.modernescpp.com/index.php/memory-and-performance-overhead-of-smart-pointer
 
+### Profiling
+1. Valgrind and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
+
 ## OpenCV
 
 ### Affine Transforms
