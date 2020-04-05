@@ -15,6 +15,7 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Magic Methods (Dunder Methods)
 1.  Covers highly used magic methods - https://realpython.com/operator-function-overloading/
 2. `__repr__` vs. `__str__` and `!r` flag - https://dbader.org/blog/python-repr-vs-str
+3. `__format__` and `format()` - https://www.journaldev.com/22821/python-format-function
 
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
@@ -49,9 +50,6 @@ https://www.ics.uci.edu/~brgallar/index.html
 
 ### `string` library
 1. `maketrans()` and `translate()` functions - https://www.tutorialspoint.com/python-maketrans-and-translate-functions
-
-### `format()` function
-1. Basics - https://www.journaldev.com/22821/python-format-function
 
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
