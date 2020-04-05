@@ -50,6 +50,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### `string` library
 1. `maketrans()` and `translate()` functions - https://www.tutorialspoint.com/python-maketrans-and-translate-functions
 
+### `format()` function
+1. Basics - https://www.journaldev.com/22821/python-format-function
+
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
 
