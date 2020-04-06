@@ -20,6 +20,9 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Logging
 1. Using `logging` module - https://realpython.com/python-logging/
 
+## Decorators
+1. Everything - https://realpython.com/primer-on-python-decorators/
+
 ### Threading
 1. Everything - https://docs.python.org/3/library/threading.html
 2. Thread Synchronization - http://effbot.org/zone/thread-synchronization.htm
@@ -80,17 +83,57 @@ https://www.ics.uci.edu/~brgallar/index.html
 ### Profiling
 1. Tools and visualization - https://medium.com/@narenandu/profiling-and-visualization-tools-in-python-89a46f578989
 
-## C++
-### References and Pointers
+## C and C++
+
+C - https://gribblelab.org/CBootCamp/
+
+C++ best practices - https://github.com/lefticus/cppbestpractices
+
+
+### Datatypes
+1. Datatypes in C++- https://codingfox.com/3-7-data-types-putting-all-together/
+2. Integer overflow and underflow - https://codingfox.com/3-7-1-formulating-overflow-and-underflow/
+3. `size_t` in C++ - https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
+4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
+
+### References and Pointers (C++)
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
 2. References vs. Pointers deeper understanding - https://www.embedded.com/references-vs-pointers/
 
-### Smart Pointers
+### Smart Pointers (C++)
 1. Performance overhead - https://stackoverflow.com/questions/22295665/how-much-is-the-overhead-of-smart-pointers-compared-to-normal-pointers-in-c
 2. Memory and Performance overhead - https://www.modernescpp.com/index.php/memory-and-performance-overhead-of-smart-pointer
 
+### `const` and `static` keywords
+1. Everything about `const` - https://www.studytonight.com/cpp/const-keyword.php
+2. Why can a const member function modify a static data member? - https://stackoverflow.com/questions/43936404/why-can-a-const-member-function-modify-a-static-data-member
+
+### Array
+1. `std::array` vs. `std::vector` in C++ - https://stackoverflow.com/questions/15079057/arrays-vs-vectors-introductory-similarities-and-differences
+2. Array - https://www.cpp.edu/~elab/ECE114/Array.html
+3. `std::vector` in C++ - https://www.codesdope.com/cpp-stdvector/
+4. `std::vector` in C++ - https://www.bitdegree.org/learn/c-plus-plus-vector
+5. `std::array` vs static array vs `std::vector` - https://stackoverflow.com/questions/18868860/c11-stdarray-vs-static-array-vs-stdvector
+
+### StringStream
+1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
+
 ### Profiling
 1. Valgrind and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
+
+### Memory allocation
+1. Stack vs. Heap - https://gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html
+2. Memory allocation strategies - https://barrgroup.com/embedded-systems/how-to/malloc-free-dynamic-memory-allocation
+3. Memory fragmentation solution - https://stackoverflow.com/questions/60871/how-to-solve-memory-fragmentation
+4. Pros and Cons of the various Memory Allocation Strategies - https://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies
+5. How is an object stored in heap - https://stackoverflow.com/questions/22388079/how-is-an-object-stored-in-heap
+6. Memory pool -https://stackoverflow.com/questions/6747959/questions-about-memory-pool
+7. Basic implementation of memory pool - https://www.codeproject.com/Articles/15527/C-Memory-Pool
+
+
+### Data conversion
+1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
+
 
 ## OpenCV
 
@@ -169,6 +212,10 @@ https://www.ics.uci.edu/~brgallar/index.html
 ## Vagrant
 1. Change the way vagrant ssh login works, use your own key for ssh - http://ermaker.github.io/blog/2015/11/18/change-insecure-key-to-my-own-key-on-vagrant.html
 
+## Git
+1. Initializing a local folder as git repo and pushing it online - https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+2. Push a local branch to remote - https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
+
 ## Software Development
 
 ### 12-factor app
@@ -200,7 +247,6 @@ https://12factor.net
 
 #### Dependency Injection - Dependency injection is a programming technique that makes a class independent of its dependencies.
 1. Dependency Injection with a simple example - https://stackoverflow.com/questions/130794/what-is-dependency-injection
-
 
 ### Composition and Inheritance
 1. Composition vs. Inheritance - https://www.thoughtworks.com/de/insights/blog/composition-vs-inheritance-how-choose
