@@ -123,6 +123,9 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 6. `shared_ptr` for arrays? - https://stackoverflow.com/questions/3266443/can-you-use-a-shared-ptr-for-raii-of-c-style-arrays
 7. Difference between array type and array allocated with malloc - https://stackoverflow.com/questions/10575544/difference-between-array-type-and-array-allocated-with-malloc
 
+### Templates
+1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
+
 ### StringStream
 1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
 
