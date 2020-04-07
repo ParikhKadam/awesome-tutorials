@@ -104,6 +104,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 ### References and Pointers (C++)
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
 2. References vs. Pointers deeper understanding - https://www.embedded.com/references-vs-pointers/
+3. What is `void` pointer? - https://stackoverflow.com/questions/8530080/what-is-a-void-pointer-in-c
 
 ### Smart Pointers (C++)
 1. Performance overhead - https://stackoverflow.com/questions/22295665/how-much-is-the-overhead-of-smart-pointers-compared-to-normal-pointers-in-c
