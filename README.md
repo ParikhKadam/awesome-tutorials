@@ -96,6 +96,9 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 3. `size_t` in C++ - https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
 
+### Inheritance
+1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
+
 ### References and Pointers (C++)
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
 2. References vs. Pointers deeper understanding - https://www.embedded.com/references-vs-pointers/
@@ -129,7 +132,6 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 5. How is an object stored in heap - https://stackoverflow.com/questions/22388079/how-is-an-object-stored-in-heap
 6. Memory pool -https://stackoverflow.com/questions/6747959/questions-about-memory-pool
 7. Basic implementation of memory pool - https://www.codeproject.com/Articles/15527/C-Memory-Pool
-
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
