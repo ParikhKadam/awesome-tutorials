@@ -135,7 +135,8 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 4. Pros and Cons of the various Memory Allocation Strategies - https://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies
 5. How is an object stored in heap - https://stackoverflow.com/questions/22388079/how-is-an-object-stored-in-heap
 6. Memory pool -https://stackoverflow.com/questions/6747959/questions-about-memory-pool
-7. Basic implementation of memory pool - https://www.codeproject.com/Articles/15527/C-Memory-Pool
+7. Basic implementation of memory pool - https://www.codeproject.com/Articles/27487/Why-to-use-memory-pool-and-how-to-implement-it
+8. Complete implementation of memory pool - https://www.codeproject.com/Articles/15527/C-Memory-Pool
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
