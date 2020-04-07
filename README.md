@@ -122,6 +122,8 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 5. `std::array` vs static array vs `std::vector` - https://stackoverflow.com/questions/18868860/c11-stdarray-vs-static-array-vs-stdvector
 6. `shared_ptr` for arrays? - https://stackoverflow.com/questions/3266443/can-you-use-a-shared-ptr-for-raii-of-c-style-arrays
 7. Difference between array type and array allocated with malloc - https://stackoverflow.com/questions/10575544/difference-between-array-type-and-array-allocated-with-malloc
+8. Different ways of passing array to functions - https://stackoverflow.com/questions/14309136/passing-arrays-to-function-in-c
+9. Pssing array to functions - https://softwareengineering.stackexchange.com/questions/269648/int-vs-int-n-vs-int-n-in-functions-parameters-which-one-do-you-think-i/269721#269721?newreg=3361119f1a4a4a8c8d00a7060f3fac36
 
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
