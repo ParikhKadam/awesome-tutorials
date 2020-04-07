@@ -89,7 +89,6 @@ C - https://gribblelab.org/CBootCamp/
 
 C++ best practices - https://github.com/lefticus/cppbestpractices
 
-
 ### Datatypes
 1. Datatypes in C++- https://codingfox.com/3-7-data-types-putting-all-together/
 2. Integer overflow and underflow - https://codingfox.com/3-7-1-formulating-overflow-and-underflow/
@@ -98,6 +97,9 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
+
+### Initializer list
+1. Everything - https://www.studytonight.com/cpp/initializer-list-in-cpp.php
 
 ### References and Pointers (C++)
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
