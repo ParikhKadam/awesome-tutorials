@@ -106,6 +106,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 ### Smart Pointers (C++)
 1. Performance overhead - https://stackoverflow.com/questions/22295665/how-much-is-the-overhead-of-smart-pointers-compared-to-normal-pointers-in-c
 2. Memory and Performance overhead - https://www.modernescpp.com/index.php/memory-and-performance-overhead-of-smart-pointer
+3. `shared_ptr` for arrays? - https://stackoverflow.com/questions/3266443/can-you-use-a-shared-ptr-for-raii-of-c-style-arrays
 
 ### `const` and `static` keywords
 1. Everything about `const` - https://www.studytonight.com/cpp/const-keyword.php
@@ -117,6 +118,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 3. `std::vector` in C++ - https://www.codesdope.com/cpp-stdvector/
 4. `std::vector` in C++ - https://www.bitdegree.org/learn/c-plus-plus-vector
 5. `std::array` vs static array vs `std::vector` - https://stackoverflow.com/questions/18868860/c11-stdarray-vs-static-array-vs-stdvector
+6. `shared_ptr` for arrays? - https://stackoverflow.com/questions/3266443/can-you-use-a-shared-ptr-for-raii-of-c-style-arrays
 
 ### StringStream
 1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
