@@ -137,6 +137,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
 2. `typename` - https://stackoverflow.com/questions/1600936/officially-what-is-typename-for
 3. `typename` vs. `class` - https://stackoverflow.com/questions/2023977/difference-of-keywords-typename-and-class-in-templates
+4. Instatiation vs. Specialization - https://stackoverflow.com/questions/3914642/difference-between-instantiation-and-specialization-in-c-templates
 
 ### StringStream
 1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
