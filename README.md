@@ -94,6 +94,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 2. Integer overflow and underflow - https://codingfox.com/3-7-1-formulating-overflow-and-underflow/
 3. `size_t` in C++ - https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
+5. `typedef` - https://www.cprogramming.com/tutorial/typedef.html
 
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
