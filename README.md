@@ -96,6 +96,9 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
 5. `typedef` - https://www.cprogramming.com/tutorial/typedef.html
 
+### Classes, Functions, Objects, etc..
+1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
+
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
 
