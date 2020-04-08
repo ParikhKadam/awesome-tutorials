@@ -147,6 +147,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 7. Basic implementation of memory pool - https://www.codeproject.com/Articles/27487/Why-to-use-memory-pool-and-how-to-implement-it
 8. Complete implementation of memory pool - https://www.codeproject.com/Articles/15527/C-Memory-Pool
 9. `VirtualAlloc()` vs. `HeapAlloc()` vs. `malloc()` vs. `new()` - https://stackoverflow.com/questions/872072/whats-the-differences-between-virtualalloc-and-heapalloc
+10. Memory allocation in terms of virtual memory - https://stackoverflow.com/questions/3954188/how-malloc-works
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
