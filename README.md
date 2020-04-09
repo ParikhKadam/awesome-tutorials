@@ -168,6 +168,10 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
 
+## CMake
+
+### `add_executable()`
+1. How does `add_executable()` identify which is the main file (entry point) out of a list of files passed to it - https://answers.ros.org/question/244489/multiple-files-in-one-add_executable/ 
 
 ## OpenCV
 
@@ -210,7 +214,6 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 
 ### ngClass and ngStyle
 1. https://blog.angular-university.io/angular-ngclass-ngstyle/
-
 
 ## Markdown
 1. Collapsable section - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
