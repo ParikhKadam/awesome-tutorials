@@ -151,8 +151,9 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 ### StringStream
 1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
 
-### Profiling
-1. Valgrind and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
+### Profiling and Detecting memory leaks
+1. Valgrind (callgrind) and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
+2. Valgrind tutorial - http://pages.cs.wisc.edu/~bart/537/valgrind.html
 
 ### Memory allocation
 1. Stack vs. Heap - https://gribblelab.org/CBootCamp/7_Memory_Stack_vs_Heap.html
