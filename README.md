@@ -100,6 +100,10 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
 2. Lambda fuctions - https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-in-c11
 
+### Object Lifecycle
+1. Initialization and Declaration, Lifecycle, RAII - https://stackoverflow.com/questions/3506818/object-is-already-initialized-on-declaration
+2. Define specific scope - https://stackoverflow.com/questions/14620898/how-does-one-declare-a-variable-inside-an-if-statement
+
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
 
