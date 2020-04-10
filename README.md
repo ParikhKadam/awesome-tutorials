@@ -168,6 +168,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 11. `malloc()` vs. `calloc()` vs. `new()` in C++ - https://stackoverflow.com/questions/807939/what-is-the-difference-between-new-and-malloc-and-calloc-in-c
 12. Writing a Memory Pool Allocator - http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/
 13. Various types of memory managers, their implementation and advantages/disadvantages - https://developer.ibm.com/technologies/systems/tutorials/au-memorymanager/
+14. Concept of automatic storage - https://stackoverflow.com/questions/10157122/object-creation-on-the-stack-heap
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
