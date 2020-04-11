@@ -103,11 +103,11 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 ### Plain Old Data
 1. Simplistic definition - https://stackoverflow.com/questions/146452/what-are-pod-types-in-c
 2. PODs and Aggregates - https://stackoverflow.com/questions/5442717/cant-c-pod-type-have-any-constructor
-3. 
 
 ### Object Lifecycle
 1. Initialization and Declaration, Lifecycle, RAII - https://stackoverflow.com/questions/3506818/object-is-already-initialized-on-declaration
 2. Define specific scope - https://stackoverflow.com/questions/14620898/how-does-one-declare-a-variable-inside-an-if-statement
+3. Data members are initialized before constructor body code runs - https://www.quora.com/In-C++-why-are-class-members-initialized-with-their-default-constructor-before-the-constructor-body-executes-instead-of-the-compiler-detecting-which-members-werent-initialized-during-the-constructor-and-initializing-them-with-the-default-constructor-afterwards
 
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
