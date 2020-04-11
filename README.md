@@ -89,6 +89,8 @@ C - https://gribblelab.org/CBootCamp/
 
 C++ best practices - https://github.com/lefticus/cppbestpractices
 
+Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil/cs330/latest/Directory/outline/index.html
+
 ### Datatypes
 1. Datatypes in C++- https://codingfox.com/3-7-data-types-putting-all-together/
 2. Integer overflow and underflow - https://codingfox.com/3-7-1-formulating-overflow-and-underflow/
