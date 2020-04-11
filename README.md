@@ -114,6 +114,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 
 ### Initializer list
 1. Everything - https://www.studytonight.com/cpp/initializer-list-in-cpp.php
+2. Why initializer lists give speed boost? - https://stackoverflow.com/questions/9903248/initializing-fields-in-constructor-initializer-list-vs-constructor-body/9903262#9903262
 
 ### References and Pointers
 1. References vs. pointers simple differences - https://www.quora.com/What-are-the-advantages-of-references-over-pointers-and-vice-versa-in-C++
