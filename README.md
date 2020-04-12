@@ -137,6 +137,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### `const` and `static` keywords
 1. Everything about `const` - https://www.studytonight.com/cpp/const-keyword.php
 2. Why can a const member function modify a static data member? - https://stackoverflow.com/questions/43936404/why-can-a-const-member-function-modify-a-static-data-member
+3. What is the meaning of a const at end of a member function? - https://stackoverflow.com/questions/4059932/what-is-the-meaning-of-a-const-at-end-of-a-member-function
 
 ### Array
 1. `std::array` vs. `std::vector` in C++ - https://stackoverflow.com/questions/15079057/arrays-vs-vectors-introductory-similarities-and-differences
