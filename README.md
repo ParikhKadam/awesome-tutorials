@@ -309,6 +309,9 @@ https://12factor.net
 ## Cryptography
 1. Why `xor` encryption - https://stackoverflow.com/questions/1379952/why-is-xor-used-in-cryptography
 
+## Bug hunts and its understanding
+1. Safari hack to access webcam - https://www.ryanpickren.com/webcam-hacking
+
 ## Encoding
 1. `hexadecimal` and `base64` encoding of a windows executable - https://stackoverflow.com/questions/36796744/convert-exe-to-hex-to-be-run-by-python
 
