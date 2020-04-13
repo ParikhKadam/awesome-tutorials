@@ -153,6 +153,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 9. Pssing array to functions - https://softwareengineering.stackexchange.com/questions/269648/int-vs-int-n-vs-int-n-in-functions-parameters-which-one-do-you-think-i/269721#269721?newreg=3361119f1a4a4a8c8d00a7060f3fac36
 10. Size of vector in C++ - https://stackoverflow.com/questions/34024805/c-sizeof-vector-is-24
 11. Vector deallocation - https://stackoverflow.com/questions/3054567/right-way-to-deallocate-an-stdvector-object
+12. `std::array`vs. `std::vector` in terms of performance - https://github.com/isocpp/CppCoreGuidelines/issues/493
 
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
