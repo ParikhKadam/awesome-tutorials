@@ -101,6 +101,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 5. `typedef` - https://www.cprogramming.com/tutorial/typedef.html
 6. When should one use `auto` and when should one not use it? - https://stackoverflow.com/questions/6900459/the-new-keyword-auto-when-should-it-be-used-to-declare-a-variable-type
 7. Combined use of `typename` and `typedef` without templates - https://stackoverflow.com/questions/11922657/passing-template-typedef-as-argument-to-a-function-template
+8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 
 ### Classes, Functions, Objects, etc.. (C++)
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
