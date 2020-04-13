@@ -99,6 +99,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. `size_t` in C++ - https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
 5. `typedef` - https://www.cprogramming.com/tutorial/typedef.html
+6. When should one use `auto` and when should one not use it? - https://stackoverflow.com/questions/6900459/the-new-keyword-auto-when-should-it-be-used-to-declare-a-variable-type
 
 ### Classes, Functions, Objects, etc.. (C++)
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
