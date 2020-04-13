@@ -155,6 +155,9 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 11. Vector deallocation - https://stackoverflow.com/questions/3054567/right-way-to-deallocate-an-stdvector-object
 12. `std::array`vs. `std::vector` in terms of performance - https://github.com/isocpp/CppCoreGuidelines/issues/493
 
+### String
+1. `char*` vs. `std::string` - https://stackoverflow.com/questions/1764079/why-do-you-prefer-char-instead-of-string-in-c
+
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
 2. `typename` - https://stackoverflow.com/questions/1600936/officially-what-is-typename-for
