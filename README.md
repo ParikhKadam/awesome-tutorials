@@ -9,6 +9,8 @@ https://www.pythonprogramming.in/object-oriented-programming.html
 
 https://www.ics.uci.edu/~brgallar/index.html
 
+Exploring and understanding Python through surprising snippets - https://github.com/satwikkansal/wtfpython
+
 ### Regular Expressions
 1. Using `re` module -  https://www.delftstack.com/tutorial/python-modules-tutorial/python-regular-expression/
 
