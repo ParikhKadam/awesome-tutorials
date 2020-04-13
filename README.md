@@ -106,6 +106,8 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### Classes, Functions, Objects, etc.. (C++)
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
 2. Lambda fuctions - https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-in-c11
+3. Different ways of returning multiple values from function - https://stackoverflow.com/questions/321068/returning-multiple-values-from-a-c-function
+4. Comparision of `std::tuple` vs. pass by reference for returning multiple values - https://stackoverflow.com/questions/47790909/which-is-better-returning-tuple-or-passing-arguments-to-function-as-references/61186156#61186156
 
 ### Plain Old Data
 1. Simplistic definition - https://stackoverflow.com/questions/146452/what-are-pod-types-in-c
