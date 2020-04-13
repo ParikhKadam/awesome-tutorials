@@ -126,6 +126,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. What is `void` pointer? - https://stackoverflow.com/questions/8530080/what-is-a-void-pointer-in-c
 4. Limitations of ``void` pointer - https://stackoverflow.com/questions/32489899/usage-of-void-pointers-in-c
 5. When to use `void` pointers - https://stackoverflow.com/questions/1025579/when-to-use-a-void-pointer
+6. Pointer vs. Reference as return types - https://stackoverflow.com/questions/7813728/pointer-vs-reference-return-types
 
 ## Iterators (C++)
 1. What and Why- https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterators.html
