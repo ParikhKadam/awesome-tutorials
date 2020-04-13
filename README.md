@@ -94,7 +94,7 @@ C++ best practices - https://github.com/lefticus/cppbestpractices
 Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil/cs330/latest/Directory/outline/index.html
 
 ### Datatypes
-1. Datatypes in C++- https://codingfox.com/3-7-data-types-putting-all-together/
+1. Datatypes in C++ - https://en.cppreference.com/w/cpp/language/types
 2. Integer overflow and underflow - https://codingfox.com/3-7-1-formulating-overflow-and-underflow/
 3. `size_t` in C++ - https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
