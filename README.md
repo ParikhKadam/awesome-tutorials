@@ -135,7 +135,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 6. Pointer vs. Reference as return types - https://stackoverflow.com/questions/7813728/pointer-vs-reference-return-types
 
 ### Reference of Reference (rvalue reference)
-1. Reference vs. reference of reference, temporary objects, ownership transfer, speed advantage, `std::move()` - https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/ 
+1. Basics of Reference vs. reference of reference, temporary objects, ownership transfer, speed advantage, `std::move()`, forwarding reference and `std::forward()` in templates - https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/ 
 
 ## Iterators (C++)
 1. What and Why- https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterators.html
