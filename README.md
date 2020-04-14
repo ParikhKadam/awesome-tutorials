@@ -104,6 +104,9 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
 
+### Type casting
+1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
+
 ### Classes, Functions, Objects, etc.. (C++)
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
 2. Lambda fuctions - https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-in-c11
