@@ -155,6 +155,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 2. Why can a const member function modify a static data member? - https://stackoverflow.com/questions/43936404/why-can-a-const-member-function-modify-a-static-data-member
 3. What is the meaning of a const at end of a member function? - https://stackoverflow.com/questions/4059932/what-is-the-meaning-of-a-const-at-end-of-a-member-function
 4. What kind of optimization can `const` offer? - https://stackoverflow.com/questions/27466642/what-kind-of-optimization-does-const-offer-in-c-c
+5. Static method can be called using class member access syntax (apart from calling it with static member access syntax) - https://stackoverflow.com/questions/46544292/c-calling-a-static-method
 
 ### Array
 1. `std::array` vs. `std::vector` in C++ - https://stackoverflow.com/questions/15079057/arrays-vs-vectors-introductory-similarities-and-differences
