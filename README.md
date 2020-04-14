@@ -134,6 +134,9 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 5. When to use `void` pointers - https://stackoverflow.com/questions/1025579/when-to-use-a-void-pointer
 6. Pointer vs. Reference as return types - https://stackoverflow.com/questions/7813728/pointer-vs-reference-return-types
 
+### Reference of Reference (rvalue reference)
+1. Reference vs. reference of reference, temporary objects, ownership transfer, speed advantage, `std::move()` - https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/ 
+
 ## Iterators (C++)
 1. What and Why- https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterators.html
 2. Writing iterators for custom container - https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterator-define.html
