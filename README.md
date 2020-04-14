@@ -157,6 +157,8 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. What is the meaning of a const at end of a member function? - https://stackoverflow.com/questions/4059932/what-is-the-meaning-of-a-const-at-end-of-a-member-function
 4. What kind of optimization can `const` offer? - https://stackoverflow.com/questions/27466642/what-kind-of-optimization-does-const-offer-in-c-c
 5. Static method can be called using class member access syntax (apart from calling it with static member access syntax) - https://stackoverflow.com/questions/46544292/c-calling-a-static-method
+6. Static members should not be initialized in header files - https://stackoverflow.com/questions/18860895/how-to-initialize-static-members-in-the-header
+7. Code should always be written in code files and not header, even if it is static funciton - https://stackoverflow.com/questions/780730/c-c-static-function-in-header-file-what-does-it-mean
 
 ### Array
 1. `std::array` vs. `std::vector` in C++ - https://stackoverflow.com/questions/15079057/arrays-vs-vectors-introductory-similarities-and-differences
