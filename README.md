@@ -185,6 +185,8 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ### String
 1. `char*` vs. `std::string` - https://stackoverflow.com/questions/1764079/why-do-you-prefer-char-instead-of-string-in-c
+2. `char*` vs. `std::string` in memory management and `\0` character - https://stackoverflow.com/questions/1287306/difference-between-string-and-char-types-in-c
+3. `std::string` automatic resizing doubling algorithm - https://stackoverflow.com/questions/3557591/stdstring-and-its-automatic-memory-resizing
 
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
