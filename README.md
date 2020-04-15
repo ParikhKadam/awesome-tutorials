@@ -107,6 +107,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ### Type casting
 1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
+2. Available ways to cast type and when to use which - https://www.bogotobogo.com/cplusplus/typecast.php
 
 ### Classes, Functions, Objects, etc.. (C++)
 1. Everything about inline functions - https://stackoverflow.com/questions/1759300/when-should-i-write-the-keyword-inline-for-a-function-method
