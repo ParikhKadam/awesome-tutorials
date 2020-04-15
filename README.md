@@ -120,6 +120,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 1. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
 2. Define enum's underlying type (don't confuse it with inheritance) - https://stackoverflow.com/questions/35294575/enum-inheriting-from-primitive-type
 3. `enum class` is not a class - https://stackoverflow.com/questions/21295935/can-a-c-enum-class-have-methods
+4. Complete understanding with enum initialization - https://en.cppreference.com/w/cpp/language/enum
 
 ### Plain Old Data
 1. Simplistic definition - https://stackoverflow.com/questions/146452/what-are-pod-types-in-c
