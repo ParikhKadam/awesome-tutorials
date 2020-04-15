@@ -103,6 +103,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 7. Combined use of `typename` and `typedef` without templates - https://stackoverflow.com/questions/11922657/passing-template-typedef-as-argument-to-a-function-template
 8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
+10. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
 
 ### Type casting
 1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
