@@ -103,9 +103,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 7. Combined use of `typename` and `typedef` without templates - https://stackoverflow.com/questions/11922657/passing-template-typedef-as-argument-to-a-function-template
 8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
-10. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
-11. Define enum's underlying type (don't confuse it with inheritance) - https://stackoverflow.com/questions/35294575/enum-inheriting-from-primitive-type
-12. Will a `char` always have 8 bits in C++ - https://stackoverflow.com/questions/9727465/will-a-char-always-always-always-have-8-bits
+10. Will a `char` always have 8 bits in C++ - https://stackoverflow.com/questions/9727465/will-a-char-always-always-always-have-8-bits
 
 ### Type casting
 1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
@@ -117,6 +115,11 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 4. Comparision of `std::tuple` vs. pass by reference for returning multiple values - https://stackoverflow.com/questions/47790909/which-is-better-returning-tuple-or-passing-arguments-to-function-as-references/61186156#61186156
 5. A simplistic tutorial on ADTs in C++ - https://www.cs.odu.edu/~zeil/cs330/latest/Public/implementingADTS/index.html
 6. How does the compiler calculate size of object in C++ - https://stackoverflow.com/questions/937773/how-do-you-determine-the-size-of-an-object-in-c
+
+## Enum
+1. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
+2. Define enum's underlying type (don't confuse it with inheritance) - https://stackoverflow.com/questions/35294575/enum-inheriting-from-primitive-type
+3. `enum class` is not a class - https://stackoverflow.com/questions/21295935/can-a-c-enum-class-have-methods
 
 ### Plain Old Data
 1. Simplistic definition - https://stackoverflow.com/questions/146452/what-are-pod-types-in-c
