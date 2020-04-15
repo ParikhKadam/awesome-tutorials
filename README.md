@@ -113,6 +113,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. Different ways of returning multiple values from function - https://stackoverflow.com/questions/321068/returning-multiple-values-from-a-c-function
 4. Comparision of `std::tuple` vs. pass by reference for returning multiple values - https://stackoverflow.com/questions/47790909/which-is-better-returning-tuple-or-passing-arguments-to-function-as-references/61186156#61186156
 5. A simplistic tutorial on ADTs in C++ - https://www.cs.odu.edu/~zeil/cs330/latest/Public/implementingADTS/index.html
+6. How does the compiler calculate size of object in C++ - https://stackoverflow.com/questions/937773/how-do-you-determine-the-size-of-an-object-in-c
 
 ### Plain Old Data
 1. Simplistic definition - https://stackoverflow.com/questions/146452/what-are-pod-types-in-c
@@ -206,6 +207,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 12. Writing a Memory Pool Allocator - http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/
 13. Various types of memory managers, their implementation and advantages/disadvantages - https://developer.ibm.com/technologies/systems/tutorials/au-memorymanager/
 14. Concept of automatic storage - https://stackoverflow.com/questions/10157122/object-creation-on-the-stack-heap
+11. How does the compiler calculate size of object in C++ - https://stackoverflow.com/questions/937773/how-do-you-determine-the-size-of-an-object-in-c
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
