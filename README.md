@@ -100,7 +100,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 4. How to get type of a variable - https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
 5. `typedef` - https://www.cprogramming.com/tutorial/typedef.html
 6. When should one use `auto` and when should one not use it? - https://stackoverflow.com/questions/6900459/the-new-keyword-auto-when-should-it-be-used-to-declare-a-variable-type
-7. Combined use of `typename` and `typedef` without templates - https://stackoverflow.com/questions/11922657/passing-template-typedef-as-argument-to-a-function-template
+7. Combined use of `typename` and `typedef` ~without templates~ (typename is only important in templates, see templates section for more info.) - https://stackoverflow.com/questions/11922657/passing-template-typedef-as-argument-to-a-function-template
 8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
 10. Will a `char` always have 8 bits in C++ - https://stackoverflow.com/questions/9727465/will-a-char-always-always-always-have-8-bits
