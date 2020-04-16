@@ -194,6 +194,9 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### File IO
 1. Difference between `operator <<` and `write()` - https://stackoverflow.com/questions/4329835/whats-the-difference-between-ofstream-and-write
 2. High performance reading and writing - https://stackoverflow.com/questions/38646062/c-high-performance-file-reading-and-writing-c14
+3. Read and write files directly using system calls to have total control - https://stackoverflow.com/questions/14003466/how-can-i-read-and-write-from-files-using-the-headers-fcntl-h-and-unistd-h
+4. Read and write files directly using system calls to have total control - https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+5. Difference in file system call functions between windows and POSIX - https://stackoverflow.com/questions/36438732/close-vs-close-read-vs-read-write-vs-write-what-is-difference
 
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
