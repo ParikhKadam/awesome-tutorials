@@ -188,15 +188,18 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 1. `char*` vs. `std::string` - https://stackoverflow.com/questions/1764079/why-do-you-prefer-char-instead-of-string-in-c
 2. `char*` vs. `std::string` in memory management and `\0` character - https://stackoverflow.com/questions/1287306/difference-between-string-and-char-types-in-c
 3. `std::string` automatic resizing doubling algorithm - https://stackoverflow.com/questions/3557591/stdstring-and-its-automatic-memory-resizing
+4. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
+5. `string` vs `stringstream` - https://stackoverflow.com/questions/19844858/c-stdostringstream-vs-stdstringappend
+
+### File IO
+1. Difference between `operator <<` and `write()` - https://stackoverflow.com/questions/4329835/whats-the-difference-between-ofstream-and-write
+2. High performance reading and writing - https://stackoverflow.com/questions/38646062/c-high-performance-file-reading-and-writing-c14
 
 ### Templates
 1. Complete guide - https://www.bogotobogo.com/cplusplus/templates.php
 2. `typename` - https://stackoverflow.com/questions/1600936/officially-what-is-typename-for
 3. `typename` vs. `class` - https://stackoverflow.com/questions/2023977/difference-of-keywords-typename-and-class-in-templates
 4. Instatiation vs. Specialization - https://stackoverflow.com/questions/3914642/difference-between-instantiation-and-specialization-in-c-templates
-
-### StringStream
-1. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
 
 ### Profiling and Detecting memory leaks
 1. Valgrind (callgrind) and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
