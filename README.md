@@ -104,6 +104,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 8. Scope of `typedef` - https://stackoverflow.com/questions/2427739/please-explain-syntax-rules-and-scope-for-typedef
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
 10. Will a `char` always have 8 bits in C++ - https://stackoverflow.com/questions/9727465/will-a-char-always-always-always-have-8-bits
+11. `typedef` vs. `using` (C++11) and alias templates - https://www.internalpointers.com/post/differences-between-using-and-typedef-modern-c
 
 ### Type casting
 1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
@@ -204,6 +205,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 2. `typename` - https://stackoverflow.com/questions/1600936/officially-what-is-typename-for
 3. `typename` vs. `class` - https://stackoverflow.com/questions/2023977/difference-of-keywords-typename-and-class-in-templates
 4. Instatiation vs. Specialization - https://stackoverflow.com/questions/3914642/difference-between-instantiation-and-specialization-in-c-templates
+5. `using` and alias templates - https://www.internalpointers.com/post/differences-between-using-and-typedef-modern-c
 
 ### Profiling and Detecting memory leaks
 1. Valgrind (callgrind) and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
