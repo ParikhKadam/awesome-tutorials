@@ -147,6 +147,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 5. When to use `void` pointers - https://stackoverflow.com/questions/1025579/when-to-use-a-void-pointer
 6. Pointer vs. Reference as return types - https://stackoverflow.com/questions/7813728/pointer-vs-reference-return-types
 7. Passing integers via pointer/reference vs. copying - https://stackoverflow.com/questions/3009543/passing-integers-as-constant-references-versus-copying
+8. Return Value Optimization - https://stackoverflow.com/questions/4643713/c-returning-reference-to-local-variable
 
 ### Reference of Reference (rvalue reference)
 1. Basics of Reference vs. reference of reference, temporary objects, ownership transfer, speed advantage, `std::move()`, forwarding reference and `std::forward()` in templates - https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
