@@ -228,6 +228,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
+2. Convert any object to/from bytes - http://www.cplusplus.com/forum/beginner/155821/
 
 ### Tricks
 1. Determine OS using preprocessor directives - https://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor
