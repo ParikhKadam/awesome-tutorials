@@ -232,7 +232,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### Tricks
 1. Determine OS using preprocessor directives - https://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor
 2. Various available preprocessor directives in different OS - https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive
-3. Use `++i` instead of `i++` for custom objects where possible - https://stackoverflow.com/questions/24901/is-there-a-performance-difference-between-i-and-i-in-c
+3. Use `++i` instead of `i++` where possible - https://stackoverflow.com/questions/24901/is-there-a-performance-difference-between-i-and-i-in-c
 
 ## CMake
 
