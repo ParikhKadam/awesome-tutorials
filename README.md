@@ -225,6 +225,10 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### Data conversion
 1. Bytes to integer - https://stackoverflow.com/questions/34943835/convert-four-bytes-to-integer-using-c/34944089
 
+### Tricks
+1. Determine OS using preprocessor directives - https://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor
+2. Various available preprocessor directives in different OS - https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive
+
 ## CMake
 
 ### `add_executable()`
