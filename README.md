@@ -194,6 +194,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. `std::string` automatic resizing doubling algorithm - https://stackoverflow.com/questions/3557591/stdstring-and-its-automatic-memory-resizing
 4. Clear a stringstream variable - https://stackoverflow.com/questions/20731/how-do-you-clear-a-stringstream-variable
 5. `string` vs `stringstream` - https://stackoverflow.com/questions/19844858/c-stdostringstream-vs-stdstringappend
+6. `c_str()` - https://stackoverflow.com/questions/7416445/what-is-use-of-c-str-function-in-c
 
 ### File IO
 1. Difference between `operator <<` and `write()` - https://stackoverflow.com/questions/4329835/whats-the-difference-between-ofstream-and-write
