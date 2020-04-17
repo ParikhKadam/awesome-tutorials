@@ -119,6 +119,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 4. Comparision of `std::tuple` vs. pass by reference for returning multiple values - https://stackoverflow.com/questions/47790909/which-is-better-returning-tuple-or-passing-arguments-to-function-as-references/61186156#61186156
 5. A simplistic tutorial on ADTs in C++ - https://www.cs.odu.edu/~zeil/cs330/latest/Public/implementingADTS/index.html
 6. How does the compiler calculate size of object in C++ - https://stackoverflow.com/questions/937773/how-do-you-determine-the-size-of-an-object-in-c
+7. Lambda expression complete reference - https://en.cppreference.com/w/cpp/language/lambda
 
 ## Enum
 1. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
