@@ -105,6 +105,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 9. Is there any reason not to use fixed width integer types (e.g. uint8_t)? - https://stackoverflow.com/questions/13413521/is-there-any-reason-not-to-use-fixed-width-integer-types-e-g-uint8-t
 10. Will a `char` always have 8 bits in C++ - https://stackoverflow.com/questions/9727465/will-a-char-always-always-always-have-8-bits
 11. `typedef` vs. `using` (C++11) and alias templates - https://www.internalpointers.com/post/differences-between-using-and-typedef-modern-c
+12. `size_t` vs. `ssize_t` - https://stackoverflow.com/questions/15739490/should-use-size-t-or-ssize-t
 
 ### Type casting
 1. All the methods available for casting and their uses - https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used
