@@ -202,7 +202,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. Read and write files directly using system calls to have total control - https://stackoverflow.com/questions/14003466/how-can-i-read-and-write-from-files-using-the-headers-fcntl-h-and-unistd-h
 4. Read and write files directly using system calls to have total control - https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
 5. Difference in file system call functions between windows and POSIX - https://stackoverflow.com/questions/36438732/close-vs-close-read-vs-read-write-vs-write-what-is-difference
-6. `fcntl.h` and `unistd.h` in POSIX vs `io.h` in windows - https://stackoverflow.com/questions/49001326/convert-the-linux-open-read-write-close-functions-to-work-on-windows
+6. `fcntl.h` and `unistd.h` in POSIX (Linux and MAC) vs `io.h` in windows - https://stackoverflow.com/questions/49001326/convert-the-linux-open-read-write-close-functions-to-work-on-windows
 7. `unistd.h` - https://pubs.opengroup.org/onlinepubs/7908799/xsh/unistd.h.html
 
 ### Templates
