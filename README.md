@@ -364,18 +364,6 @@ https://12factor.net
 ### Composition and Inheritance
 1. Composition vs. Inheritance - https://www.thoughtworks.com/de/insights/blog/composition-vs-inheritance-how-choose
 
-## Reverse Engineering
-1. Tools for .so (shared object) files - https://reverseengineering.stackexchange.com/questions/4624/how-do-i-reverse-engineer-so-files-found-in-android-apks?newreg=c5fdcf661f3d401d944b066853af1d10
-
-## Cryptography
-1. Why `xor` encryption - https://stackoverflow.com/questions/1379952/why-is-xor-used-in-cryptography
-
-## Bug hunts and its understanding
-1. Safari hack to access webcam - https://www.ryanpickren.com/webcam-hacking
-
-## Encoding
-1. `hexadecimal` and `base64` encoding of a windows executable - https://stackoverflow.com/questions/36796744/convert-exe-to-hex-to-be-run-by-python
-
 ## Recommender Systems
 1. Everything about the basics and terminology - https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 2. Introduction - https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a
