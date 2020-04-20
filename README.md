@@ -249,8 +249,11 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ## CMake
 
-### `add_executable()`
+### API Guide
 1. How does `add_executable()` identify which is the main file (entry point) out of a list of files passed to it - https://answers.ros.org/question/244489/multiple-files-in-one-add_executable/ 
+
+### Tricks
+1. How to set OS specific instructions - https://stackoverflow.com/questions/9160335/os-specific-instructions-in-cmake-how-to
 
 ## OpenCV
 
