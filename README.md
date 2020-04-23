@@ -215,6 +215,8 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 3. `typename` vs. `class` - https://stackoverflow.com/questions/2023977/difference-of-keywords-typename-and-class-in-templates
 4. Instatiation vs. Specialization - https://stackoverflow.com/questions/3914642/difference-between-instantiation-and-specialization-in-c-templates
 5. `using` and alias templates - https://www.internalpointers.com/post/differences-between-using-and-typedef-modern-c
+6. Variadic templates - https://eli.thegreenplace.net/2014/variadic-templates-in-c/
+7. Variadic templates (easy guide) -  https://kevinushey.github.io/blog/2016/01/27/introduction-to-c++-variadic-templates/
 
 ### Profiling and Detecting memory leaks
 1. Valgrind (callgrind) and Kcachegrind - https://codeyarns.com/2013/09/17/how-to-profile-cc-code-using-valgrind-and-kcachegrind/
