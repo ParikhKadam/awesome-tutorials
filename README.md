@@ -176,6 +176,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 5. Static method can be called using class member access syntax (apart from calling it with static member access syntax) - https://stackoverflow.com/questions/46544292/c-calling-a-static-method
 6. Static members should not be initialized in header files - https://stackoverflow.com/questions/18860895/how-to-initialize-static-members-in-the-header
 7. Code should always be written in code files and not header, even if it is static funciton - https://stackoverflow.com/questions/780730/c-c-static-function-in-header-file-what-does-it-mean
+8. Global static variables vs. Class static variables - https://stackoverflow.com/questions/3698043/static-variables-in-c
 
 ### Array
 1. `std::array` vs. `std::vector` in C++ - https://stackoverflow.com/questions/15079057/arrays-vs-vectors-introductory-similarities-and-differences
