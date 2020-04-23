@@ -135,6 +135,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 1. Initialization and Declaration, Lifecycle, RAII - https://stackoverflow.com/questions/3506818/object-is-already-initialized-on-declaration
 2. Define specific scope - https://stackoverflow.com/questions/14620898/how-does-one-declare-a-variable-inside-an-if-statement
 3. Data members are initialized before constructor body code runs - https://www.quora.com/In-C++-why-are-class-members-initialized-with-their-default-constructor-before-the-constructor-body-executes-instead-of-the-compiler-detecting-which-members-werent-initialized-during-the-constructor-and-initializing-them-with-the-default-constructor-afterwards
+4. Delegating constructors - https://thenewcpp.wordpress.com/2013/07/25/delegating-constructors/
 
 ### Inheritance
 1. Covariant return types - https://stackoverflow.com/questions/1882584/what-is-a-covariant-return-type
