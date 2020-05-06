@@ -85,6 +85,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### Profiling
 1. Tools and visualization - https://medium.com/@narenandu/profiling-and-visualization-tools-in-python-89a46f578989
 
+### Others
+1. Duck Typing - https://realpython.com/lessons/duck-typing/
+
 ## OpenCV
 
 ### Affine Transforms
