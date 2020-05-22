@@ -168,6 +168,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 1. Initializing a local folder as git repo and pushing it online - https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 2. Push a local branch to remote - https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
 3. Reverting back to specific commit - https://stackoverflow.com/questions/3489173/how-to-clone-git-repository-with-specific-revision-changeset
+4. Git tags basics - https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
 
 ## Software Development
 
