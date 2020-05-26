@@ -82,8 +82,11 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### Tricks
 1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
 
-### Profiling
+### Testing and Profiling
 1. Tools and visualization - https://medium.com/@narenandu/profiling-and-visualization-tools-in-python-89a46f578989
+2. Python doctest - https://docs.python.org/3/library/doctest.html
+3. Behaviour Driven Development - https://opensource.com/article/18/5/behavior-driven-python
+4. unittest - https://www.journaldev.com/15899/python-unittest-unit-test-example
 
 ### Others
 1. Duck Typing - https://realpython.com/lessons/duck-typing/
@@ -171,6 +174,12 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. Git tags basics - https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
 
 ## Software Development
+
+### Development Strategies
+1. Behaviour Driven Development - https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/
+2. Behaviour Driven Development - https://opensource.com/article/18/5/behavior-driven-python
+3. Test Driven Development - http://agiledata.org/essays/tdd.html
+4. Test Driven Development vs. Behaviour Driven Development - https://cucumber.io/blog/bdd/bdd-vs-tdd/
 
 ### 12-factor app
 In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
