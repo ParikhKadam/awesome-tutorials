@@ -158,6 +158,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 
 ### Comamnds
 1. The `tee` command - https://linuxize.com/post/linux-tee-command/
+2. The `chsh` command and changing default login shell - https://www.cyberciti.biz/faq/howto-change-linux-unix-freebsd-login-shell
 
 ## Devops
 
