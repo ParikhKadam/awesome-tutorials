@@ -159,6 +159,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### Comamnds
 1. The `tee` command - https://linuxize.com/post/linux-tee-command/
 2. The `chsh` command and changing default login shell - https://www.cyberciti.biz/faq/howto-change-linux-unix-freebsd-login-shell
+3. The `-` (dash) operator - https://unix.stackexchange.com/questions/16357/usage-of-dash-in-place-of-a-filename 
 
 ## Devops
 
