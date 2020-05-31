@@ -156,6 +156,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 1. Basics - https://www.journaldev.com/27875/nohup-command-in-linux
 2. Killing a `nohup` process - https://stackoverflow.com/questions/17385794/how-to-get-the-process-id-to-kill-a-nohup-process
 
+### Comamnds
+1. The `tee` command - https://linuxize.com/post/linux-tee-command/
+
 ## Devops
 
 ### Deployment Strategies
