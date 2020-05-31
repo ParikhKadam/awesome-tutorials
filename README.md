@@ -162,6 +162,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 3. The `-` (dash) operator - https://unix.stackexchange.com/questions/16357/usage-of-dash-in-place-of-a-filename 
 4. `;` vs. `&&` operator - https://unix.stackexchange.com/questions/37069/what-is-the-difference-between-and-when-chaining-commands
 
+### Tricks
+1. Use output of a command in output of other command without a pipe `|` - https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
+
 ## Devops
 
 ### Deployment Strategies
