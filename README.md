@@ -87,6 +87,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 2. Python doctest - https://docs.python.org/3/library/doctest.html
 3. Behaviour Driven Development - https://opensource.com/article/18/5/behavior-driven-python
 4. unittest - https://www.journaldev.com/15899/python-unittest-unit-test-example
+5. `tearDown()` vs. `addCleanup()` in unittest - https://stackoverflow.com/questions/37534021/addcleanup-vs-teardown
 
 ### Others
 1. Duck Typing - https://realpython.com/lessons/duck-typing/
