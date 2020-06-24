@@ -165,6 +165,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 5. The `ln` command and types of links - https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/
 6. The `find` command - https://www.oracle.com/technical-resources/articles/calish-find.html
 
+### Access control
+1. SUID, SGID and Sitcky bits - https://www.howtogeek.com/656646/how-to-use-suid-sgid-and-sticky-bits-on-linux/
+
 ### Tricks
 1. Use output of a command in output of other command without a pipe `|` - https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
