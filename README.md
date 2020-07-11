@@ -79,9 +79,11 @@ Exploring and understanding Python through surprising snippets - https://github.
 1. Implementing a plugin basics - https://alysivji.github.io/simple-plugin-system.html
 2. More on loading and running plugins - https://lkubuntu.wordpress.com/2012/10/02/writing-a-python-plugin-api/
 
-### Tricks
+### Misc
 1. `dict.setdefault()` vs `collection.defaultdict()` -https://stackoverflow.com/questions/3483520/use-cases-for-the-setdefault-dict-method
 2. Multiprocessing vs multithreading vs asyncio - https://stackoverflow.com/questions/27435284/multiprocessing-vs-multithreading-vs-asyncio-in-python-3-4/59474824#59474824
+3. Type hints, `typing` module - https://stackoverflow.com/questions/32557920/what-are-type-hints-in-python-3-5
+4. Variable annotations - https://stackoverflow.com/questions/39971929/what-are-variable-annotations-in-python-3-6
 
 ### Testing and Profiling
 1. Tools and visualization - https://medium.com/@narenandu/profiling-and-visualization-tools-in-python-89a46f578989
