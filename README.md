@@ -57,7 +57,8 @@ Exploring and understanding Python through surprising snippets - https://github.
 1. `maketrans()` and `translate()` functions - https://www.tutorialspoint.com/python-maketrans-and-translate-functions
 
 ### `contextlib` library
-1. How `yield` works with `@contextmanager` - https://stackoverflow.com/questions/35489844/what-does-yield-without-value-do-in-context-manager
+1. `contextlib.contextmanager` and `contextlib.ContextDecorator` (useless) - https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
+2. How `yield` works with `@contextmanager` - https://stackoverflow.com/questions/35489844/what-does-yield-without-value-do-in-context-manager
 
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
