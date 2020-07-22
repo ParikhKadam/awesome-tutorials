@@ -33,9 +33,6 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### Imports
 1. `__import__` vs. `import as` and importlib - https://stackoverflow.com/questions/21213355/python-difference-between-import-and-import-as
 
-### App Configuration Files
-1. Some common configuration files - https://martin-thoma.com/configuration-files-in-python/
-
 ### `super()`
 1. `super()` with wrong arguments - https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class
 2. Understanding of `super()` in deep along with arguments and python2 vs python3 - https://stackoverflow.com/questions/17509846/python-super-arguments-why-not-superobj
@@ -43,6 +40,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### Metaclasses and `type`
 1. Dynamically creating classes - https://stackoverflow.com/questions/15247075/how-can-i-dynamically-create-derived-classes-from-a-base-class
 2. Everything to need to know about metaclasses - https://realpython.com/python-metaclasses/
+
+### Monkey Patching
+1. What is mokey patching - https://stackoverflow.com/questions/5626193/what-is-monkey-patching
 
 ### `__dict__`, `dir()` and `vars()`
 1. `dir()` and  `__dict__` vs `vars()` - https://stackoverflow.com/questions/980249/difference-between-dir-and-vars-keys-in-python
@@ -104,6 +104,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 
 ### Others
 1. Duck Typing - https://realpython.com/lessons/duck-typing/
+2. Some common types of project configuration files - https://martin-thoma.com/configuration-files-in-python/
 
 ## OpenCV
 
