@@ -96,6 +96,12 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. unittest - https://www.journaldev.com/15899/python-unittest-unit-test-example
 5. `tearDown()` vs. `addCleanup()` in unittest - https://stackoverflow.com/questions/37534021/addcleanup-vs-teardown
 
+### Conda, pip, venv, etc.
+1. Conda vs. pip - https://www.anaconda.com/blog/understanding-conda-and-pip
+2. Anaconda, conda and pip - https://www.quora.com/What-is-the-comparison-among-conda-vs-pip-vs-anaconda
+3. Conda replaces virtualenv - https://stackoverflow.com/questions/34398676/does-conda-replace-the-need-for-virtualenv
+4. Pyenv vs. conda - https://bastibe.de/2017-11-20-pyenv.html
+
 ### Others
 1. Duck Typing - https://realpython.com/lessons/duck-typing/
 
