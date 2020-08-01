@@ -198,6 +198,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 ## Vagrant
 1. Change the way vagrant ssh login works, use your own key for ssh - http://ermaker.github.io/blog/2015/11/18/change-insecure-key-to-my-own-key-on-vagrant.html
 
+## Docker
+1. Frequently used docker commands - https://docker-curriculum.com/
+
 ## Git
 1. Initializing a local folder as git repo and pushing it online - https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 2. Push a local branch to remote - https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
