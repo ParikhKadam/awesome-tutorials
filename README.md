@@ -103,6 +103,8 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. Pyenv vs. conda - https://bastibe.de/2017-11-20-pyenv.html
 5. Using pyenv - https://realpython.com/intro-to-pyenv/
 
+### Emails
+1. Sending emails with `smtplib` and a link to other alternatives - https://realpython.com/python-send-email/#including-html-content
 
 ### Others
 1. Duck Typing - https://realpython.com/lessons/duck-typing/
