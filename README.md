@@ -63,6 +63,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 ### App Package
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
 
+### PyInstaller
+1. How to use pyinstaller - https://www.infoworld.com/article/3543792/how-to-use-pyinstaller-to-create-python-executables.html
+
 ### Cython - Python code that can be compiled like C to be used in other C and Python modules
 1. Basics - https://pythonprogramming.net/introduction-and-basics-cython-tutorial/
 
