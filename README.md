@@ -261,6 +261,7 @@ https://12factor.net
 ## Web App Development
 
 ### OAtuh
+1. OAuth and Phishing attack on it - https://www.youtube.com/watch?v=aU9RsE4fcRM
 
 ### SSO (Single Sign On)
 1. https://www.onelogin.com/learn/how-single-sign-on-works
