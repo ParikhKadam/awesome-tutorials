@@ -256,3 +256,11 @@ https://12factor.net
 ## Recommender Systems
 1. Everything about the basics and terminology - https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 2. Introduction - https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a
+
+
+## Web App Development
+
+### OAtuh
+
+### SSO (Single Sign On)
+1. https://www.onelogin.com/learn/how-single-sign-on-works
