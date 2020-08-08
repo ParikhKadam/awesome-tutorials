@@ -170,6 +170,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 5. `/etc/shadow` - https://unix.stackexchange.com/questions/252016/difference-between-vs-vs-in-etc-shadow
 6. `/etc/passwd` vs. `/etc/shadow` - https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd
 
+### Installation
+1. Change package installation path - https://askubuntu.com/questions/404824/how-to-choose-install-location-using-apt-get-install
+
 ### Cron jobs
 1. Create cron job using terminal - https://stackoverflow.com/questions/4880290/how-do-i-create-a-crontab-through-a-script
 2. Manually adding cron jobs - https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
