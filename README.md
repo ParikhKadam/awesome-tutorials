@@ -215,6 +215,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 3. Reverting back to specific commit - https://stackoverflow.com/questions/3489173/how-to-clone-git-repository-with-specific-revision-changeset
 4. Git tags basics - https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
 5. Git Stash complete guide - https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+6. Why git stash - https://stackoverflow.com/questions/20537223/what-is-the-intended-use-case-for-git-stash
 
 ## Software Development
 
