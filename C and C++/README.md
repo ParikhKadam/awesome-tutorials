@@ -40,7 +40,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 6. How does the compiler calculate size of object in C++ - https://stackoverflow.com/questions/937773/how-do-you-determine-the-size-of-an-object-in-c
 7. Lambda expression complete reference - https://en.cppreference.com/w/cpp/language/lambda
 
-## Enum
+### Enum
 1. `enum` vs `enum class`  -https://stackoverflow.com/questions/18335861/why-is-enum-class-preferred-over-plain-enum
 2. Define enum's underlying type (don't confuse it with inheritance) - https://stackoverflow.com/questions/35294575/enum-inheriting-from-primitive-type
 3. `enum class` is not a class - https://stackoverflow.com/questions/21295935/can-a-c-enum-class-have-methods
@@ -78,7 +78,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 1. Basics of Reference vs. reference of reference, temporary objects, ownership transfer, speed advantage, `std::move()`, forwarding reference and `std::forward()` in templates - https://www.fluentcpp.com/2018/02/06/understanding-lvalues-rvalues-and-their-references/
 2. Better understanding of lvalue and rvalue, rvalue reference, move semantics and rule of three/five - https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners
 
-## Iterators (C++)
+### Iterators (C++)
 1. What and Why- https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterators.html
 2. Writing iterators for custom container - https://users.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterator-define.html
 
@@ -177,6 +177,8 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ### API Guide
 1. How does `add_executable()` identify which is the main file (entry point) out of a list of files passed to it - https://answers.ros.org/question/244489/multiple-files-in-one-add_executable/ 
+2. Basic usage - https://mirkokiefer.com/cmake-by-example-f95eb47d45b1
+3. Intermediate usage - https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics
 
 ### Tricks
 1. How to set OS specific instructions - https://stackoverflow.com/questions/9160335/os-specific-instructions-in-cmake-how-to
