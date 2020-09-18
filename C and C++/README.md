@@ -166,6 +166,9 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 1. Conditional Compilation - https://www.cs.auckland.ac.nz/references/unix/digital/AQTLTBTE/DOCU_078.HTM
 2. `#if` vs. `#ifdef` vs. `#if defined` - https://stackoverflow.com/questions/39290019/is-if-defined-macro-equivalent-to-ifdef-macro
 
+### Build and Install (Executables, Libraries, Object Files, etc.)
+1. Difference between object files and executables - https://stackoverflow.com/questions/25896207/difference-between-code-object-and-executable-file
+
 ### Tricks
 1. Determine OS using preprocessor directives - https://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor
 2. Various available preprocessor directives in different OS - https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive
