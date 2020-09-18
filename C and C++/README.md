@@ -178,7 +178,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 ### Introduction
 1. Basic usage - https://mirkokiefer.com/cmake-by-example-f95eb47d45b1
 2. Intermediate usage - https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics
-3. The most complete CMake guide (includes static and shared libraries, please follow the sequence) - https://medium.com/@onur.dundar1/cmake-tutorial-585dd180109b
+3. The most complete CMake guide (includes static and shared libraries, and much more.. please follow the sequence) - https://medium.com/@onur.dundar1/cmake-tutorial-585dd180109b
 
 ### How?
 1. How does `add_executable()` identify which is the main file (entry point) out of a list of files passed to it - https://answers.ros.org/question/244489/multiple-files-in-one-add_executable/ 
