@@ -216,6 +216,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. Git tags basics - https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
 5. Git Stash complete guide - https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 6. Why git stash - https://stackoverflow.com/questions/20537223/what-is-the-intended-use-case-for-git-stash
+7. How to modify local (unpushed) commits - https://stackoverflow.com/questions/179123/how-to-modify-existing-unpushed-commit-messages
 
 ## Software Development
 
