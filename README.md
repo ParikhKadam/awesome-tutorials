@@ -3,6 +3,8 @@ Tutorials links
 
 ## Python
 
+Real world python - https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/
+
 https://github.com/ParikhKadam/python-is-cool
 
 https://www.pythonprogramming.in/object-oriented-programming.html
