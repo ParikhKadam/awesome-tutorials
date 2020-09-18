@@ -27,7 +27,7 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 2. Available ways to cast type and when to use which - https://www.bogotobogo.com/cplusplus/typecast.php
 3. How to use `const_cast`? - https://stackoverflow.com/questions/19554841/how-to-use-const-cast
 
-### Struts and Unions
+### Structs and Unions
 1. Bitfields - https://stackoverflow.com/questions/31850314/colon-used-in-variable-initialization
 1. When and how to use bitfields - https://stackoverflow.com/questions/4240974/when-is-it-worthwhile-to-use-bit-fields
 
@@ -175,10 +175,13 @@ Object-oriented programming, analysis, and design - https://www.cs.odu.edu/~zeil
 
 ## CMake
 
-### API Guide
+### Introduction
+1. Basic usage - https://mirkokiefer.com/cmake-by-example-f95eb47d45b1
+2. Intermediate usage - https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics
+3. The most complete CMake guide (includes static and shared libraries, please follow the sequence) - https://medium.com/@onur.dundar1/cmake-tutorial-585dd180109b
+
+### How?
 1. How does `add_executable()` identify which is the main file (entry point) out of a list of files passed to it - https://answers.ros.org/question/244489/multiple-files-in-one-add_executable/ 
-2. Basic usage - https://mirkokiefer.com/cmake-by-example-f95eb47d45b1
-3. Intermediate usage - https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics
 
 ### Tricks
 1. How to set OS specific instructions - https://stackoverflow.com/questions/9160335/os-specific-instructions-in-cmake-how-to
