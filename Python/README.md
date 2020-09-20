@@ -98,6 +98,15 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. unittest - https://www.journaldev.com/15899/python-unittest-unit-test-example
 5. `tearDown()` vs. `addCleanup()` in unittest - https://stackoverflow.com/questions/37534021/addcleanup-vs-teardown
 
+### Descriptors
+1. The internal logic - https://pabloariasal.github.io/2018/11/25/python-descriptors/
+2. Basic - https://deepsource.io/blog/demystifying-python-descriptor-protocol/
+3. Understanding the dunder methods - https://stackoverflow.com/questions/3798835/understanding-get-and-set-and-python-descriptors
+4. The descriptor protocol - http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/
+5. Everything about descriptors - https://web.archive.org/web/20170221220235/http://users.rcn.com/python/download/Descriptor.htm
+6. Why descriptors don't work for object attirbutes - https://stackoverflow.com/questions/50556491/why-python-descriptor-work-for-class-level-attribute-and-not-for-an-instance-lev
+7. Example use - http://martyalchin.com/2007/nov/24/python-descriptors-part-2-of-2/
+
 ### Conda, pip, venv, etc.
 1. Conda vs. pip - https://www.anaconda.com/blog/understanding-conda-and-pip
 2. Anaconda, conda and pip - https://www.quora.com/What-is-the-comparison-among-conda-vs-pip-vs-anaconda
