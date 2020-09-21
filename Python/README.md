@@ -59,9 +59,6 @@ Exploring and understanding Python through surprising snippets - https://github.
 1. `contextlib.contextmanager` and `contextlib.ContextDecorator` (useless) - https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
 2. How `yield` works with `@contextmanager` - https://stackoverflow.com/questions/35489844/what-does-yield-without-value-do-in-context-manager
 
-### App Package
-1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
-
 ### PyInstaller
 1. How to use pyinstaller - https://www.infoworld.com/article/3543792/how-to-use-pyinstaller-to-create-python-executables.html
 
@@ -113,6 +110,12 @@ Exploring and understanding Python through surprising snippets - https://github.
 3. Conda replaces virtualenv - https://stackoverflow.com/questions/34398676/does-conda-replace-the-need-for-virtualenv
 4. Pyenv vs. conda - https://bastibe.de/2017-11-20-pyenv.html
 5. Using pyenv - https://realpython.com/intro-to-pyenv/
+
+### Building
+1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
+
+### Bindings
+1. Generate bindings from C++ i.e. call c++ code in python - https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
 
 ### Emails
 1. Sending emails with `smtplib` and a link to other alternatives - https://realpython.com/python-send-email/#including-html-content
