@@ -116,6 +116,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 
 ### Bindings
 1. Generate bindings from C++ i.e. call c++ code in python - https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
+2. 2020 guide to the tools used for generating bindings from C and C++ - https://realpython.com/python-bindings-overview/
 
 ### Emails
 1. Sending emails with `smtplib` and a link to other alternatives - https://realpython.com/python-send-email/#including-html-content
