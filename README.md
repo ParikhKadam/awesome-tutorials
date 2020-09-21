@@ -87,6 +87,9 @@ https://github.com/ParikhKadam/awesome-tutorials/blob/master/Python/README.md
 ### Access control
 1. SUID, SGID and Sitcky bits - https://www.howtogeek.com/656646/how-to-use-suid-sgid-and-sticky-bits-on-linux/
 
+### Environment variables
+1. LD_LIBRARY_PATH - https://stackoverflow.com/questions/7148036/what-is-ld-library-path-and-how-to-use-it
+
 ### Tricks
 1. Use output of a command in output of other command without a pipe `|` - https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash
 
