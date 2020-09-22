@@ -23,6 +23,7 @@ Exploring and understanding Python through surprising snippets - https://github.
 
 ## Decorators
 1. Everything - https://realpython.com/primer-on-python-decorators/
+2. Just another guide (but better) - https://pabloariasal.github.io/python-decorators-from-the-ground-up/
 
 ### Threading
 1. Everything - https://docs.python.org/3/library/threading.html
