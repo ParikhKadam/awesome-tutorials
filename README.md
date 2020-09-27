@@ -174,3 +174,6 @@ https://12factor.net
 
 ### SSO (Single Sign On)
 1. https://www.onelogin.com/learn/how-single-sign-on-works
+
+### Active Directory (Directory Service, Kerberos, LDAP)
+1. Directory service, kerberos and active directory and ldap basics - https://docs.microsoft.com/en-us/archive/blogs/ashwinexchange/understanding-active-directory-for-beginners-part-1
