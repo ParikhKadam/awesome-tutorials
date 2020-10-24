@@ -112,8 +112,9 @@ Exploring and understanding Python through surprising snippets - https://github.
 4. Pyenv vs. conda - https://bastibe.de/2017-11-20-pyenv.html
 5. Using pyenv - https://realpython.com/intro-to-pyenv/
 
-### Building
+### Packaging
 1. Include non-python files when building the wheel - https://stackoverflow.com/questions/1612733/including-non-python-files-with-setup-py
+2. setup.py develop vs install - https://stackoverflow.com/questions/19048732/python-setup-py-develop-vs-install
 
 ### Bindings
 1. Generate bindings from C++ i.e. call c++ code in python - https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html
