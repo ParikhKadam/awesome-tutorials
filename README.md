@@ -181,6 +181,8 @@ https://12factor.net
 
 ## Django
 
+https://simpleisbetterthancomplex.com/
+
 https://github.com/wsvincent/awesome-django
 
 ### User accounts, authentication and access controls
