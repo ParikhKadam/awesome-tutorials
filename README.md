@@ -186,3 +186,6 @@ https://github.com/wsvincent/awesome-django
 
 ### Optimization
 1. Basic memory and speed optimization - https://medium.com/@ryleysill93/basic-performance-optimization-in-django-ebd19089a33f
+
+### Misc
+1. Manage interdependency between django apps - https://stackoverflow.com/questions/895454/django-app-dependency-cycle
