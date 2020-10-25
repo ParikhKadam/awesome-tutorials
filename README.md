@@ -183,6 +183,8 @@ https://12factor.net
 
 https://github.com/wsvincent/awesome-django
 
+### User accounts, authentication and access controls
+1. User account (model) of different types and view based authorization - https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 
 ### Optimization
 1. Basic memory and speed optimization - https://medium.com/@ryleysill93/basic-performance-optimization-in-django-ebd19089a33f
