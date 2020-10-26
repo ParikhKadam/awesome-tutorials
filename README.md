@@ -185,6 +185,11 @@ https://simpleisbetterthancomplex.com/
 
 https://github.com/wsvincent/awesome-django
 
+### Fields
+1. null vs. blank - https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django
+2. Field validators and Regex field - https://stackoverflow.com/questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models
+3. help_text for fields - https://stackoverflow.com/questions/18178310/can-i-add-help-text-in-django-model-fields
+
 ### User accounts, authentication and access controls
 1. User account (model) of different types and view based authorization - https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 
