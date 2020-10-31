@@ -190,6 +190,7 @@ https://github.com/wsvincent/awesome-django
 2. Field validators and Regex field - https://stackoverflow.com/questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models
 3. help_text for fields - https://stackoverflow.com/questions/18178310/can-i-add-help-text-in-django-model-fields
 4. Error messages in field validation (might be related with error code of validators) - https://stackoverflow.com/questions/4798322/how-do-i-use-error-messages-on-models-in-django
+5. Enforce foreign key constraints at database level manually - https://stackoverflow.com/questions/54206730/why-doesnt-my-models-on-delete-models-cascade-generate-a-cascading-foreign
 
 ### Admin
 1. Hide specific fields conditionally - https://stackoverflow.com/questions/47993423/how-to-hide-fields-for-specific-record-in-django-admin
