@@ -207,3 +207,4 @@ https://github.com/wsvincent/awesome-django
 ### Guidelines
 1. In general but important guideliens - https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5
 2. Add migrations to git - https://stackoverflow.com/questions/28035119/should-i-be-adding-the-django-migration-files-in-the-gitignore-file
+3. Resuable apps? - https://www.reddit.com/r/django/comments/6tm6qm/are_there_guidelines_for_when_you_should_create_a/
