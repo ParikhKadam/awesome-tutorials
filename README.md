@@ -185,11 +185,15 @@ https://simpleisbetterthancomplex.com/
 
 https://github.com/wsvincent/awesome-django
 
-### Fields
+### Model Fields
 1. null vs. blank - https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django
 2. Field validators and Regex field - https://stackoverflow.com/questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models
 3. help_text for fields - https://stackoverflow.com/questions/18178310/can-i-add-help-text-in-django-model-fields
 4. Error messages in field validation (might be related with error code of validators) - https://stackoverflow.com/questions/4798322/how-do-i-use-error-messages-on-models-in-django
+
+### Admin
+1. Hide specific fields conditionally - https://stackoverflow.com/questions/47993423/how-to-hide-fields-for-specific-record-in-django-admin
+2. Hide fields using javascript (include a generic form example which can be used to normal users as well as superuser) - https://stackoverflow.com/questions/47838059/django-admin-show-hide-fields-if-specific-value-is-selected-in-a-dropdown
 
 ### User accounts, authentication and access controls
 1. User account (model) of different types and view based authorization - https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
@@ -199,3 +203,7 @@ https://github.com/wsvincent/awesome-django
 
 ### Misc
 1. Manage interdependency between django apps - https://stackoverflow.com/questions/895454/django-app-dependency-cycle
+
+### Guidelines
+1. In general but important guideliens - https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5
+2. Add migrations to git - https://stackoverflow.com/questions/28035119/should-i-be-adding-the-django-migration-files-in-the-gitignore-file
