@@ -194,6 +194,11 @@ https://github.com/wsvincent/awesome-django
 6. Minimum Value Validator - https://stackoverflow.com/questions/54858123/how-do-i-enforce-a-positive-number-on-my-python-django-model-field
 7. FloatField vs DecimalField - https://stackoverflow.com/questions/2569015/django-floatfield-or-decimalfield-for-currency
 
+### Queries
+1. Complex queries using Q objects - https://stackoverflow.com/questions/6567831/how-to-perform-or-condition-in-django-queryset
+2. Access the foriegn key without loading the object - https://stackoverflow.com/questions/4074038/django-access-foreignkey-value-without-hitting-database, https://stackoverflow.com/questions/51859256/django-orm-vs-when-access-the-id-of-foreign-key
+
+
 ### Admin
 1. Hide specific fields conditionally - https://stackoverflow.com/questions/47993423/how-to-hide-fields-for-specific-record-in-django-admin
 2. Hide fields using javascript (include a generic form example which can be used to normal users as well as superuser) - https://stackoverflow.com/questions/47838059/django-admin-show-hide-fields-if-specific-value-is-selected-in-a-dropdown
