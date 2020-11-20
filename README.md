@@ -185,6 +185,8 @@ https://simpleisbetterthancomplex.com/
 
 https://github.com/wsvincent/awesome-django
 
+Specifically for Class Based Views - https://github.com/refreshoxford/django-cbv-inspector
+
 ### Model Fields
 1. null vs. blank - https://stackoverflow.com/questions/8609192/differentiate-null-true-blank-true-in-django
 2. Field validators and Regex field - https://stackoverflow.com/questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models
@@ -197,7 +199,6 @@ https://github.com/wsvincent/awesome-django
 ### Queries
 1. Complex queries using Q objects - https://stackoverflow.com/questions/6567831/how-to-perform-or-condition-in-django-queryset
 2. Access the foriegn key without loading the object - https://stackoverflow.com/questions/4074038/django-access-foreignkey-value-without-hitting-database, https://stackoverflow.com/questions/51859256/django-orm-vs-when-access-the-id-of-foreign-key
-
 
 ### Admin
 1. Hide specific fields conditionally - https://stackoverflow.com/questions/47993423/how-to-hide-fields-for-specific-record-in-django-admin
